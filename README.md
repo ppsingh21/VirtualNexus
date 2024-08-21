@@ -83,10 +83,10 @@ Virtual Nexus was developed using Unity3D, with Oculus Integration for VR functi
 ## Team
 - [Prabal Pratap Singh](https://github.com/ppsingh21)
 - [Arpit Anand](https://github.com/ARPITANANDIITK)
-- Harshit Kant
-- Harsh Verma
-- Mritunjay Maddhesiya
-- Akshat Singh Tiwari
+- [Harshit Kant](https://github.com/kharshit21)
+- [Harsh Verma](Harshverma21)
+- [Mritunjay Maddhesiya](https://github.com/MRITUNJAYMADDHESHIYA)
+- [Akshat Singh Tiwari](https://github.com/akshtt)
 - Priyanshu Bhatia
 - Himanshu Singh
 ## Acknowledgments
