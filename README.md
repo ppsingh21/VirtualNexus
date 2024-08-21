@@ -81,7 +81,7 @@ Virtual Nexus was developed using Unity3D, with Oculus Integration for VR functi
 - **User Testing:** Conducting extensive user testing to refine gameplay and controls.
 
 ## Team
-- Prabal Pratap Singh
+- [Prabal Pratap Singh](https://github.com/ppsingh21)
 - Arpit Anand
 - Harshit Kant
 - Harsh Verma
